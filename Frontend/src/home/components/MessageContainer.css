@@ -1,0 +1,21 @@
+
+@media (min-width: 127px) {
+    .M-div{
+      height: 28rem;
+    
+    }
+    
+}
+
+@media (min-width: 790px) {
+    .M-div{
+      height: 29rem;
+    }
+}
+
+@media (min-width: 1440px) {
+    .M-div{
+      height: 33rem;
+    }
+}
+
